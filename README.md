@@ -2,7 +2,7 @@ Hand Gesture Recognition System
 
 A Deep Learning computer vision model built with TensorFlow and OpenCV to classify American Sign Language (ASL) hand gestures (24 letter classes) using VGG16 Transfer Learning.
 
-🚀 Quick Start
+Quick Start
 
 1. Install Dependencies
 pip install numpy tensorflow opencv-python matplotlib scikit-learn seaborn
